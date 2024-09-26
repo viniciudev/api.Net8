@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\4Axon\\4Axon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|c:\\4axon\\4axon\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|c:\\4axon\\4axon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\serviceextension\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\migrations\\dbcontextclassmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\migrations\\20240926151706_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|c:\\4axon\\4axon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\serviceextension\\migrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|c:\\4axon\\4axon\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB55E38-871A-4FBF-A07A-48AE50079EF4}|4Axon.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B4A355-D248-4F9C-88C7-76B624419034}|..\\Services\\Services.csproj|c:\\4axon\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377B265-F200-44B0-9A2B-0EB2756D8B36}|..\\Core\\Core.csproj|c:\\4axon\\core\\dtos\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377B265-F200-44B0-9A2B-0EB2756D8B36}|..\\Core\\Core.csproj|c:\\4axon\\core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B4A355-D248-4F9C-88C7-76B624419034}|..\\Services\\Services.csproj|c:\\4axon\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E358-19F6-40DD-AFA6-163A57708BFE}|..\\Infrastructure\\Infrastructure.csproj|c:\\4axon\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377B265-F200-44B0-9A2B-0EB2756D8B36}|..\\Core\\Core.csproj|c:\\4axon\\core\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\4Axon\\4Axon\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\4Axon\\4Axon\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T15:18:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContextClassModelSnapshot.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\Migrations\\DbContextClassModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\DbContextClassModelSnapshot.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\Migrations\\DbContextClassModelSnapshot.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\DbContextClassModelSnapshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:18:12.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240926151706_InitialMigration.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\Migrations\\20240926151706_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20240926151706_InitialMigration.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\Migrations\\20240926151706_InitialMigration.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20240926151706_InitialMigration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:17:06.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "RelativeToolTip": "..\\Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:12:04.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:17:09.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:14:42.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientServices.cs",
+              "DocumentMoniker": "C:\\4Axon\\Services\\ClientServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ClientServices.cs",
+              "ToolTip": "C:\\4Axon\\Services\\ClientServices.cs",
+              "RelativeToolTip": "..\\Services\\ClientServices.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:02:27.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\4Axon\\4Axon\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\4Axon\\4Axon\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T14:17:41.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextClass.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\DbContextClass.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\DbContextClass.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\DbContextClass.cs",
+              "RelativeToolTip": "..\\Infrastructure\\DbContextClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:11:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MigrationManager.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\ServiceExtension\\MigrationManager.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\ServiceExtension\\MigrationManager.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\ServiceExtension\\MigrationManager.cs",
+              "RelativeToolTip": "..\\Infrastructure\\ServiceExtension\\MigrationManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:12:19.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\4Axon\\4Axon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\4Axon\\4Axon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:57:57.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:52:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\4Axon\\Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\4Axon\\Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:18:16.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\4Axon\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Class1.cs",
+              "ToolTip": "C:\\4Axon\\Services\\Class1.cs",
+              "RelativeToolTip": "..\\Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:39:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\4Axon\\Core\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Client.cs",
+              "ToolTip": "C:\\4Axon\\Core\\Models\\Client.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Client.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:40:40.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientRequest.cs",
+              "DocumentMoniker": "C:\\4Axon\\Core\\DTOs\\ClientRequest.cs",
+              "RelativeDocumentMoniker": "..\\Core\\DTOs\\ClientRequest.cs",
+              "ToolTip": "C:\\4Axon\\Core\\DTOs\\ClientRequest.cs",
+              "RelativeToolTip": "..\\Core\\DTOs\\ClientRequest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:05:10.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\4Axon\\4Axon\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\4Axon\\4Axon\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:07:44.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\4Axon\\Core\\BaseModel.cs",
+              "RelativeDocumentMoniker": "..\\Core\\BaseModel.cs",
+              "ToolTip": "C:\\4Axon\\Core\\BaseModel.cs",
+              "RelativeToolTip": "..\\Core\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:23:50.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
