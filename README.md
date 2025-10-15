@@ -11,7 +11,6 @@ API em **.NET 8** com migrações (Entity Framework).
 - Entity Framework Core (Code First / Migrations)  
 - Injeção de dependência (DI)  
 - Camadas: Core, Infrastructure, Services  
-- [Opcional] Enumere outras bibliotecas: AutoMapper, FluentValidation, etc  
 
 ---
 
@@ -19,8 +18,6 @@ API em **.NET 8** com migrações (Entity Framework).
 ├─ Core/ ← Entidades, interfaces, regras de negócio
 ├─ Infrastructure/ ← Contexto do banco, migrations, implementações de repositório
 ├─ Services/ ← Lógica de aplicação / casos de uso
-├─ comandMigrations.txt ← Script ou instruções de migração
-├─ (outros arquivos, ex: .gitignore, README.md)
 
 ## ⚙️ Como rodar / executar
 
