@@ -1,0 +1,12 @@
+D:\apiPadrão\Core\bin\Debug\net10.0\Core.deps.json
+D:\apiPadrão\Core\bin\Debug\net10.0\Core.dll
+D:\apiPadrão\Core\bin\Debug\net10.0\Core.pdb
+D:\apiPadrão\Core\obj\Debug\net10.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\apiPadrão\Core\obj\Debug\net10.0\Core.AssemblyInfoInputs.cache
+D:\apiPadrão\Core\obj\Debug\net10.0\Core.AssemblyInfo.cs
+D:\apiPadrão\Core\obj\Debug\net10.0\Core.csproj.CoreCompileInputs.cache
+D:\apiPadrão\Core\obj\Debug\net10.0\Core.sourcelink.json
+D:\apiPadrão\Core\obj\Debug\net10.0\Core.dll
+D:\apiPadrão\Core\obj\Debug\net10.0\refint\Core.dll
+D:\apiPadrão\Core\obj\Debug\net10.0\Core.pdb
+D:\apiPadrão\Core\obj\Debug\net10.0\ref\Core.dll

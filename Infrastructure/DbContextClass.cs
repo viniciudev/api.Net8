@@ -10,6 +10,7 @@ namespace Infrastructure
         { }
 
         public DbSet<Client> Client { get; set; }
+        public DbSet<User> User { get; set; }
         //public DbSet<Cliente> Clientes { get; set; }
         //public DbSet<Produto> Produtos { get; set; }
         //public DbSet<ModeloProduto> Modelos { get; set; }
@@ -26,6 +27,17 @@ namespace Infrastructure
                 entity.ToTable("Client");
                 entity.HasKey(c => c.Id);
                 entity.Property(c => c.Id).ValueGeneratedOnAdd();
+            });
+
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity.ToTable("User");
+                entity.HasKey(u => u.Id);
+                entity.Property(u => u.Id).ValueGeneratedOnAdd();
+                entity.Property(u => u.Email).HasColumnType("character varying").IsRequired();
+                entity.Property(u => u.Name).HasColumnType("character varying").IsRequired();
+                entity.Property(u => u.Password).HasColumnType("character varying").IsRequired();
+                entity.HasIndex(u => u.Email).IsUnique();
             });
 
             //modelBuilder.Entity<Cliente>(entity =>

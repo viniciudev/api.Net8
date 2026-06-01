@@ -5,14 +5,17 @@
         private readonly DbContextClass _dbContext;
 
         public IClientRepository Client { get; }
+        public IUserRepository User { get; }
 
         public UnitOfWork(
             DbContextClass dbContext,
-            IClientRepository clientRepository
+            IClientRepository clientRepository,
+            IUserRepository userRepository
             ) 
         {
             _dbContext = dbContext;
             Client = clientRepository;
+            User = userRepository;
         }
 
         public int Save()
@@ -38,6 +41,7 @@
     public interface IUnitOfWork : IDisposable
     {
         IClientRepository Client { get; }
+        IUserRepository User { get; }
         int Save();
     }
 }
