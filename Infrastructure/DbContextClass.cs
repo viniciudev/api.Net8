@@ -11,19 +11,13 @@ namespace Infrastructure
 
         public DbSet<Client> Client { get; set; }
         public DbSet<User> User { get; set; }
-        //public DbSet<Cliente> Clientes { get; set; }
-        //public DbSet<Produto> Produtos { get; set; }
-        //public DbSet<ModeloProduto> Modelos { get; set; }
-        //public DbSet<Client> Clients { get; set; }
+       
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Client>(entity =>
             {
-                //entity.HasMany(u => u.Clientes)
-                //      .WithOne(c => c.User)
-                //      .HasForeignKey(c => c.UserId)
-                //      .OnDelete(DeleteBehavior.Cascade);
+                
                 entity.ToTable("Client");
                 entity.HasKey(c => c.Id);
                 entity.Property(c => c.Id).ValueGeneratedOnAdd();
@@ -40,23 +34,7 @@ namespace Infrastructure
                 entity.HasIndex(u => u.Email).IsUnique();
             });
 
-            //modelBuilder.Entity<Cliente>(entity =>
-            //{
-            //    // Removida a relação entre Cliente e Produto
-            //});
-
-            //modelBuilder.Entity<Produto>(entity =>
-            //{
-            //    entity.HasMany(p => p.Modelos)
-            //          .WithOne(m => m.Produto)
-            //          .HasForeignKey(m => m.ProdutoId)
-            //          .OnDelete(DeleteBehavior.Cascade);
-
-            //    entity.HasOne(p => p.Client)
-            //          .WithMany(c => c.Produtos)
-            //          .HasForeignKey(p => p.ClientId)
-            //          .OnDelete(DeleteBehavior.Cascade);
-            //});
+            
 
             base.OnModelCreating(modelBuilder);
         }
